@@ -1,0 +1,16 @@
+/* Header.css */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Adding a subtle box shadow to the header */
+  header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
